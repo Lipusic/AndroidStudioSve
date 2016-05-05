@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.android.vjezba_aktivnosti.MainActivity">
+
+    <item
+        android:id="@+id/skroz"
+        android:title="Start"
+        android:icon="@drawable/back"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/kalen"
+        android:title="1"
+        android:textColor="#000000"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/sat"
+        android:title="2"
+        android:textColor="#000000"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/slika"
+        android:title="3"
+        android:textColor="#000000"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/skrozn"
+        android:title="End"
+        android:icon="@drawable/next"
+        app:showAsAction="always"/>
+    </menu>
+
+
+
