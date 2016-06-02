@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="interval_bodova">
+        <item name = "jedan">0-9 --> 1</item>
+        <item name = "dva">10-19 --> 2</item>
+        <item name = "tri">20-29 --> 3</item>
+        <item name = "cetiri">30-39 --> 4</item>
+        <item name = "jedan">40-49 --> 5</item>
+    </string-array>
+</resources>
